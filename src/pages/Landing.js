@@ -1,4 +1,4 @@
-fimagimport React from 'react';
+import React from 'react';
 import { Button, Row, Col, Layout, Typography } from 'antd';
 import { GithubOutlined } from '@ant-design/icons';
 import { Link, withRouter } from 'react-router-dom';
