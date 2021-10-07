@@ -1,4 +1,4 @@
-import React from 'react';
+fimagimport React from 'react';
 import { Button, Row, Col, Layout, Typography } from 'antd';
 import { GithubOutlined } from '@ant-design/icons';
 import { Link, withRouter } from 'react-router-dom';
@@ -55,7 +55,7 @@ function Landing() {
                     </Col>
                     <Col span={12}>
                         <img
-                            src="/images/landing/hero.svg"
+                            src="/images/hero.svg"
                             alt="hero-illustration"
                             style={{ width: '100%' }}
                         />
